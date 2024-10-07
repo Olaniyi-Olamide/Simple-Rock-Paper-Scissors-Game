@@ -27,7 +27,7 @@ h1{
     font-size: 1.8rem;
 }
 .scores span{
-    margin-inline: 5px;
+    margin-inline: 0;
 }
 .buttons{
     display: flex;
